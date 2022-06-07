@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "681492398792",
+    "project_id": "musicx-e11ce",
+    "storage_bucket": "musicx-e11ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681492398792:android:fd74d743e5ae72449c5bfd",
+        "android_client_info": {
+          "package_name": "com.and.musicx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681492398792-47sdgt9tjr1lmed12kr2vkffktig37uc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChuCz_iosjPTXWLGUGaL6Ele0e2eHs024"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681492398792-47sdgt9tjr1lmed12kr2vkffktig37uc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681492398792:android:156be8786921265d9c5bfd",
+        "android_client_info": {
+          "package_name": "com.plcoding.spotifycloneyt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681492398792-47sdgt9tjr1lmed12kr2vkffktig37uc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChuCz_iosjPTXWLGUGaL6Ele0e2eHs024"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681492398792-47sdgt9tjr1lmed12kr2vkffktig37uc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
